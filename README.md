@@ -2,3 +2,5 @@
 
 
 This repo is for understanding GIT Concepts for DevOps
+
+After Origin cahnge , checking ssh
